@@ -1,0 +1,12 @@
+{
+  "name": "esundahl-specials",
+  "description": "special animations",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "esundahl-hinge": "git://github.com/npmcomponent/esundahl-hinge.git",
+    "esundahl-roll-in": "git://github.com/npmcomponent/esundahl-roll-in.git",
+    "esundahl-roll-out": "git://github.com/npmcomponent/esundahl-roll-out.git"
+  },
+  "license": "MIT"
+}
